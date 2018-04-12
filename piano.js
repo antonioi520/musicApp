@@ -56,7 +56,7 @@ function setSelectedClef(newClef) {
 
     return _selectedClef
 }
-
+//test
 function numberOfDisplayedOctaves() {
     return _displayedOctaves
 }
