@@ -15,6 +15,9 @@
     Sound
     <select ID="sound">
         <option value="0" selected>Keyboard</option>
+        <option value="1">Organ</option>
+        <option value="2">Acoustic</option>
+        <option value="3">EDM</option>
     </select>
     <div ID="keyboard" class="keyboard-holder"></div>
     <div class="keyboard-options">
